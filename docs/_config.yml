@@ -1,1 +1,12 @@
+title: "myterms fyi"
+logo:
+repository: solvaholic/myterms.fyi
+code_url: https://github.com/solvaholic/myterms.fyi/tree/main/docs
+description:
+google_analytics:
+show_downloads: true
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-mentions
+  - jekyll-github-metadata
+  - jemoji
