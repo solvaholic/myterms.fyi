@@ -1,3 +1,9 @@
+---
+title: CONTRIBUTING
+layout: default
+permalink: CONTRIBUTING.html
+---
+
 # How to contribute
 
 Want to help? Fantastic!
