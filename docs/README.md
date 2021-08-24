@@ -2,12 +2,7 @@
 title: README
 layout: default
 permalink: index.html
-renderh1: false
 ---
-
-{% if page.renderh1 %}
-# myterms.fyi
-{% endif %}
 
 ## Why is myterms.fyi important?
 
