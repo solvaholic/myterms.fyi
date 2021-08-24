@@ -2,15 +2,18 @@
 title: README
 layout: default
 permalink: index.html
+renderh1: false
 ---
 
+{% if page.renderh1 %}
 # myterms.fyi
+{% endif %}
 
 ## Why is myterms.fyi important?
 
 People do better, for each other and for themselves, when they're aware of what's going on and what's expected of them.
 
-## How will myterms.fyi to help with that?
+## How will myterms.fyi help with that?
 
 Bring transparency and onymity to anything's terms of use.
 
