@@ -1,8 +1,4 @@
----
-title: README
-layout: default
-permalink: index.html
----
+# myterms.fyi
 
 ## Why is myterms.fyi important?
 
